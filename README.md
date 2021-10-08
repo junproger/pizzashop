@@ -1,11 +1,9 @@
 # the pizzashop
 # it's online pizza-shop with JS & AJAX
-# the pizza-shop online 
-# http://end407.byethost7.com/cardclass/cardclass.html
 
 РАБОЧИЙ САЙТ И КОД
 
-Рабочий сайт интернет-магазина PIZZA – SHOP находится по ссылке 
+Рабочий (без корзины) сайт по ссылке 
 ( http://end407.byethost7.com/cardclass/cardclass.html ).
 
 ZIP архив каталогов и файлов сайта 
