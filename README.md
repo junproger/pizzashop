@@ -1,5 +1,5 @@
 # the pizzashop
-# it's online pizza-shop with JS & AJAX
+(online pizza-shop with JS & AJAX)
 
 РАБОЧИЙ САЙТ И КОД
 
