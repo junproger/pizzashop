@@ -10,6 +10,6 @@ ZIP архив каталогов и файлов сайта
 ( http://end407.byethost7.com/cardclass/cardclass.zip ). 
 
 Программный код опубликован на GitHub 
-( https://github.com/PythonProger/pizzashop ). 
+( https://github.com/junproger/pizzashop ). 
 
 Выполнил учащийся курса Frontend-разработки. 
